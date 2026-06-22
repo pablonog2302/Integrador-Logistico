@@ -20,7 +20,7 @@ public class Main {
                         
                         ====MENU====
                         
-                        1 - Cadastrar Usuário
+                        1 - Cadastrar Usuário 
                         2 - Listar Usuários
                         3 - Atualizar dados do Usuários
                         4 - Deletar Usuário
